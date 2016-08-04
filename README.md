@@ -1,2 +1,2 @@
 # kubernetes-multinode-setup
-coreos kubernetes multinode setup
+Coreos kubernetes multinode setup
